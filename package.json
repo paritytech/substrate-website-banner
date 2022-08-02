@@ -6,20 +6,11 @@
     "gatsby",
     "gatsby-plugin"
   ],
-  "scripts": {
-    "build": "babel src --out-dir ."
-  },
   "author": " W3F/Parity WebOps <webops@web3.foundation>",
   "license": "0BSD",
   "dependencies": {
-    "@babel/runtime": "^7.15.4",
     "gatsby-source-filesystem": "^3.2.0",
     "gray-matter": "^4.0.3",
     "showdown": "^2.1.0"
-  },
-  "devDependencies": {
-    "@babel/cli": "^7.15.4",
-    "@babel/core": "^7.15.5",
-    "babel-preset-gatsby-package": "^2.21.0-next.0"
   }
 }
