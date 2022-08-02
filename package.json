@@ -2,13 +2,12 @@
   "name": "gatsby-plugin-substrate-banners",
   "version": "1.0.0",
   "description": "A plugin consisting of our shared substrate components, utils etc",
-  "main": "dist",
   "keywords": [
     "gatsby",
     "gatsby-plugin"
   ],
   "scripts": {
-    "build": "babel src --out-dir ./dist"
+    "build": "babel src --out-dir ."
   },
   "author": " W3F/Parity WebOps <webops@web3.foundation>",
   "license": "0BSD",
