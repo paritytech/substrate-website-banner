@@ -6,7 +6,7 @@
 
 `git submodule add https://github.com/paritytech/substrate-website-banner.git plugins/gatsby-plugin-substrate-banners`
 
-2. Add `gatsby-plugin-substrate-banners": "./plugins/gatsby-plugin-substrate-banners` as a dependency in your `package.json`
+2. Add `"gatsby-plugin-substrate-banners": "./plugins/gatsby-plugin-substrate-banners"` as a dependency in your `package.json`
 
 3. Add the plugin in your `gatsby.config.js`
 
@@ -20,6 +20,8 @@ module.exports = {
 }
 ```
 
+4. run `yarn` to install the local plugin
+
 ## Making changes
 
 Once the changes are made and merged, you can update the installed plugin submodule by running the following command
@@ -29,17 +31,24 @@ Once the changes are made and merged, you can update the installed plugin submod
 ### Usage
 
 ```js
-      query {
-        allBannersMarkdown(filter: { frontmatter: { active: { eq: true } } }, limit: 2) {
-          edges {
-            node {
-              html
-              frontmatter {
-                title
-              }
+const {
+  allBannersMarkdown: { edges: banners },
+} = useStaticQuery(
+  graphql`
+    query {
+      allBannersMarkdown(
+        filter: { frontmatter: { active: { eq: true } } }
+        limit: 2
+      ) {
+        edges {
+          node {
+            frontmatter {
+              title
             }
           }
         }
       }
-    `
+    }
+  `
+);
 ```
