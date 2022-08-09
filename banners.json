@@ -3,13 +3,25 @@
     "title": "POLKADOT DECODED",
     "active": false,
     "excerpt": "",
-    "html": "<p>June 29th-30th, 2022</p>\n<p>Join 100+ talks, live streamed from 4 locations worldwide.</p>\n<p>[SIGN UP](<a href=\"https://decoded.polkadot.network/?utm_source=substrate.io&utm_medium=referral&utm_campaign=decoded\">https://decoded.polkadot.network/?utm_source=substrate.io&utm_medium=referral&utm_campaign=decoded</a> 2022&amp;utm_content=notification banner3)</p>"
+    "html": "<p>June 29th-30th, 2022</p>\n<p>Join 100+ talks, live streamed from 4 locations worldwide.</p>\n<p><a href=\"https://decoded.polkadot.network/?utm_source=substrate.io&utm_medium=referral&utm_campaign=decoded\">SIGN UP</a></p>"
+  },
+  {
+    "title": "Polkadot Decoded June 2022",
+    "active": false,
+    "excerpt": "",
+    "html": "<p><strong>The vote is on!</strong></p>\n<p><a href=\"https://decoded.polkadot.network/vote/?utm_source=substrate.io&utm_medium=display&utm_campaign=decoded%202022&utm_content=website%20banner\">Vote</a> for your favorite talks and help curate the final conference program.</p>"
+  },
+  {
+    "title": "Join the Polkadot Hackathon",
+    "active": false,
+    "excerpt": "",
+    "html": "<p>Put your skills to work at Polkadot Hackathon: North America Edition. The 6-week virtual program offers technical workshops, mentorship, a prize pool of over $600,000, and an in-person Hacker House in NYC! <a href=\"https://www.polkadotglobalseries.com/?utm_source=substrate.io&utm_medium=display&utm_campaign=na%20launch&utm_content=popup\">Register now</a></p>"
   },
   {
     "title": "Use our StackExchange",
     "active": true,
     "excerpt": "",
-    "html": "<p>Have a question related to something you're building with Substrate?\nCheck out <a href=\"https://substrate.stackexchange.com/\">our Stack Exchange</a> &mdash; your question may already be answered.\nIf it isn't, have a look at <a href=\"https://substrate.stackexchange.com/help/how-to-ask\">what makes a good question</a> and ask it ð.</p>"
+    "html": "<p>Have a question related to something you're building with Substrate?\nCheck out <a href=\"https://substrate.stackexchange.com/\">our Stack Exchange</a> &mdash; your question may already be answered.\nIf it isn't, have a look at <a href=\"https://substrate.stackexchange.com/help/how-to-ask\">what makes a good question</a> and ask it 😀.</p>"
   },
   {
     "title": "Tell us more about yourself",
