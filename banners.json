@@ -1,7 +1,7 @@
 [
   {
     "title": "POLKADOT DECODED",
-    "active": true,
+    "active": false,
     "excerpt": "",
     "html": "<p>June 29th-30th, 2022</p>\n<p>Join 100+ talks, live streamed from 4 locations worldwide.</p>\n<p><a href=\"https://decoded.polkadot.network/?utm_source=substrate.io&utm_medium=referral&utm_campaign=decoded\">SIGN UP</a></p>"
   },
@@ -19,7 +19,7 @@
   },
   {
     "title": "Use our StackExchange",
-    "active": false,
+    "active": true,
     "excerpt": "",
     "html": "<p>Have a question related to something you're building with Substrate?\nCheck out <a href=\"https://substrate.stackexchange.com/\">our Stack Exchange</a> &mdash; your question may already be answered.\nIf it isn't, have a look at <a href=\"https://substrate.stackexchange.com/help/how-to-ask\">what makes a good question</a> and ask it 😀.</p>"
   },
