@@ -1,0 +1,20 @@
+[
+  {
+    "title": "POLKADOT DECODED",
+    "active": false,
+    "excerpt": "",
+    "html": "<p>June 29th-30th, 2022</p>\n<p>Join 100+ talks, live streamed from 4 locations worldwide.</p>\n<p>[SIGN UP](<a href=\"https://decoded.polkadot.network/?utm_source=substrate.io&utm_medium=referral&utm_campaign=decoded\">https://decoded.polkadot.network/?utm_source=substrate.io&utm_medium=referral&utm_campaign=decoded</a> 2022&amp;utm_content=notification banner3)</p>"
+  },
+  {
+    "title": "Use our StackExchange",
+    "active": true,
+    "excerpt": "",
+    "html": "<p>Have a question related to something you're building with Substrate?\nCheck out <a href=\"https://substrate.stackexchange.com/\">our Stack Exchange</a> &mdash; your question may already be answered.\nIf it isn't, have a look at <a href=\"https://substrate.stackexchange.com/help/how-to-ask\">what makes a good question</a> and ask it ð.</p>"
+  },
+  {
+    "title": "Tell us more about yourself",
+    "active": false,
+    "excerpt": "",
+    "html": "<p>We want to get a clearer picture of the smart contract builders and enthusiasts in the Substrate and Polkadot ecosystem in order to better address their needs.</p>\n<p>That is why we would like you to take a few minutes to answer few questions so we can make our products better.</p>\n<p><a href=\"https://forms.gle/o3EC4Vz9kVrwiGeY9\">Take quick survey</a></p>"
+  }
+]
