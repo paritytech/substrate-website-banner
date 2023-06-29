@@ -1,7 +1,13 @@
 [
   {
-    "title": "Decoded 2023",
+    "title": "Sub0 2023",
     "active": true,
+    "excerpt": "",
+    "html": "<p>sub0 is back! Lisbon, Portugal, Sep 19-20.</p>\n<p><a href=\"https://polkadot.network/ecosystem/events/sub0/?utm_source=substrate.io&utm_medium=referral&utm_campaign=sub023&utm_content=notification\">Learn more →</a></p>"
+  },
+  {
+    "title": "Decoded 2023",
+    "active": false,
     "excerpt": "",
     "html": "<p>Registration for Polkadot Decoded 2023 is now open! Join Polkadot’s flagship conference on June 28-29.</p>\n<p><a href=\"https://polkadot.network/ecosystem/events/decoded-2023/?utm_source=substrate.io&utm_medium=referral&utm_campaign=decoded23&utm_content=notification\">Learn more →</a></p>"
   },
