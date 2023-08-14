@@ -1,5 +1,11 @@
 [
   {
+    "title": "Polkadot SDK",
+    "active": true,
+    "excerpt": "",
+    "html": "<p>We're merging the repositories of Cumulus, Substrate and Polkadot into one: the Polkadot SDK. This will have an impact on your work.</p>\n<p>Follow the discussion on <a href\"https://forum.polkadot.network/t/psa-parity-is-currently-working-on-merging-the-polkadot-stack-repositories-into-one-single-repository/2883\">the Polkadot Forum</a> or <a href:\"https://polkadot-public.notion.site/Polkadot-SDK-FAQ-fbc4cecc2c46443fb37b9eeec2f0d85f\">read the FAQ.</a></p>"
+  },
+  {
     "title": "sub0 is back!",
     "active": true,
     "excerpt": "",
