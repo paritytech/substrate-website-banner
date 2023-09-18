@@ -1,7 +1,13 @@
 [
   {
-    "title": "sub0 is back!",
+    "title": "sub0 Europe 2023 is happening now!",
     "active": true,
+    "excerpt": "",
+    "html": "<p><a href=\"https://polkadot.network/ecosystem/events/sub0/?utm_source=substrate.io&utm_medium=referral&utm_campaign=sub023&utm_content=notification%20live-event\">Watch live →</a></p>"
+  },
+  {
+    "title": "sub0 is back!",
+    "active": false,
     "excerpt": "",
     "html": "<p>Join the Polkadot Developer Conference. Lisbon, Portugal & online, Sep 19-20.</p>\n<p><a href=\"https://polkadot.network/ecosystem/events/sub0/?utm_source=substrate.io&utm_medium=referral&utm_campaign=sub023&utm_content=notification%20two\">Learn more →</a></p>"
   },
