@@ -1,5 +1,11 @@
 [
   {
+    "title": "Substrate is now part of a larger Polkadot SDK!",
+    "active": true,
+    "excerpt": "",
+    "html": "<p><p>Learn more about it <a href=\"https://docs.substrate.io/polkadot-sdk\">here →</a></p>"
+  },
+  {
     "title": "The Polkadot Blockchain Academy is coming to Asia!",
     "active": false,
     "excerpt": "",
